@@ -1,3 +1,8 @@
+
+<!doctype html>
+<html lang="ja">
+<head>
+
  <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -54,8 +59,42 @@
       </div>
       <div class="cv">
 
+      <form method="POST" action="https://report.calltree-system.com/jio/register.php">
+        <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
+          <!-- リファラー -->
+      <input type="hidden" name="referer" value="">
+      	<div class="inner02 cf">
+      		<div class="fl02">
+      			<input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
+      			<div>
+      			<label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
+      			<label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
+            <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
+
+      <br>
+      <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+      </div>
+      		</div>
+          <div class="fcarrow"></div>
+      		<div class="fr02">
+      			<input type="image" src="images/btn.png" id="btn1" name="send">
+          </div>
+        <div class="pc cvtxt">
+          <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+          また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+        </div>
+        </div>
+
       	</form>
       </div>
+
+      		<div class="tel sp">
+      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
+      		</div>
+    </section>
 
     <section class="bgbk">
       <div class="content01">
@@ -99,8 +138,42 @@
       </div>
       <div class="cv">
 
+      <form method="POST" action="https://report.calltree-system.com/jio/register.php">
+        <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
+          <!-- リファラー -->
+      <input type="hidden" name="referer" value="">
+      	<div class="inner02 cf">
+      		<div class="fl02">
+      			<input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
+      			<div>
+      			<label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
+      			<label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
+            <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
+
+      <br>
+      <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+      </div>
+      		</div>
+          <div class="fcarrow"></div>
+      		<div class="fr02">
+      			<input type="image" src="images/btn.png" id="btn1" name="send">
+          </div>
+        <div class="pc cvtxt">
+          <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+          また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+        </div>
+        </div>
+
       	</form>
       </div>
+
+      		<div class="tel sp">
+      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
+      		</div>
+    </section>
 
         <section>
           <div class="">
@@ -151,11 +224,43 @@
     <div class="cvbefor_inner"><img src="images/ailp_08.png" alt=""></div>
     <p>※画像認証や音声認識に並ぶレベル4のAIを搭載しており、LSTMはディープラーニング手法の一つで、SVMはデータ分析を行う機械学習です。</p>
   </div>
-  <div class="cv"
+  <div class="cv">
+
+  <form method="POST" action="https://report.calltree-system.com/jio/register.php">
+    <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
+    <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
+    <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
+      <!-- リファラー -->
+  <input type="hidden" name="referer" value="">
+    <div class="inner02 cf">
+      <div class="fl02">
+        <input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
+        <div>
+        <label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
+        <label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
+        <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
+
+  <br>
+  <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+  また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+  </div>
+      </div>
+      <div class="fcarrow"></div>
+      <div class="fr02">
+        <input type="image" src="images/btn.png" id="btn1" name="send">
+      </div>
+    <div class="pc cvtxt">
+      <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+    </div>
+    </div>
 
     </form>
   </div>
 
+      <div class="tel sp">
+        <a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
+      </div>
 </section>
     <section>
       <div id="title">
@@ -184,8 +289,44 @@
       </div>
       <div class="cv">
 
+      <form method="POST" action="https://report.calltree-system.com/jio/register.php">
+        <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
+          <!-- リファラー -->
+      <input type="hidden" name="referer" value="">
+      	<div class="inner02 cf">
+      		<div class="fl02">
+      			<input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
+      			<div>
+      			<label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
+      			<label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
+            <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
+
+      <br>
+      <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+      </div>
+      		</div>
+          <div class="fcarrow"></div>
+      		<div class="fr02">
+      			<input type="image" src="images/btn.png" id="btn1" name="send">
+          </div>
+        <div class="pc cvtxt">
+          <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+          また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+        </div>
+        </div>
+
       	</form>
       </div>
+
+      		<div class="tel sp">
+      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
+      		</div>
+    </section>
+  </article>
+</div><!--wrapper end-->
 
 <footer>
   <div id="disclaimer">
