@@ -1,8 +1,3 @@
-
-<!doctype html>
-<html lang="ja">
-<head>
-
  <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -10,7 +5,6 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-5XXLGP4G');</script>
   <!-- End Google Tag Manager -->
-
 
   <meta name="referrer" content="no-referrer-when-downgrade">
   <meta charset="UTF-8">
@@ -25,38 +19,63 @@
 </head>
 
 <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XXLGP4G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
- <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XXLGP4G"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+<!-- Logicad Tag -->
+
+<script type="text/javascript">
+(function(s,m,n,l,o,g,i,c,a,d){c=(s[o]||(s[o]={}))[g]||(s[o][g]={});if(c[i])return;c[i]=function(){(c[i+"_queue"]||(c[i+"_queue"]=[])).push(arguments)};a=m.createElement(n);a.charset="utf-8";a.async=true;a.src=l;d=m.getElementsByTagName(n)[0];d.parentNode.insertBefore(a,d)})(window,document,"script","https://cd.ladsp.com/script/pixel2.js","Smn","Logicad","pixel");Smn.Logicad.pixel({
+"f":"1",
+"smnAdvertiserId":"00024294"});
+(function(s,m,n,l,o,g,i,c,a,d){c=(s[o]||(s[o]={}))[g]||(s[o][g]={});if(c[i])return;c[i]=function(){(c[i+"_queue"]||(c[i+"_queue"]=[])).push(arguments)};a=m.createElement(n);a.charset="utf-8";a.async=true;a.src=l;d=m.getElementsByTagName(n)[0];d.parentNode.insertBefore(a,d)})(window,document,"script","https://cd.ladsp.com/script/pixel2_p_delay.js","Smn","Logicad","pixel_p_delay");
+Smn.Logicad.pixel_p_delay({"smnDelaySecondsArray":[10,30,60,90],
+"f":"1",
+"smnAdvertiserId":"00024294"});
+</script>
+
+<script type="text/javascript">
+(function(s,m,n,l,o,g,i,c,a,d){c=(s[o]||(s[o]={}))[g]||(s[o][g]={});if(c[i])return;c[i]=function(){(c[i+"_queue"]||(c[i+"_queue"]=[])).push(arguments)};a=m.createElement(n);a.charset="utf-8";a.async=true;a.src=l;d=m.getElementsByTagName(n)[0];d.parentNode.insertBefore(a,d)})(window,document,"script","https://cd.ladsp.com/script/pixel2.js","Smn","Logicad","pixel");
+Smn.Logicad.pixel({
+"f":"1",
+"smnAdvertiserId":"00024294"
+});
+</script>
+
+<!-- End Logicad Tag -->
+
 
 
 <header>
   <div id="header-inner">
     <div class="site-title">
-      <h1><a href="https://trend-scouter.jp/jio/lp13/"><img src="images/logo.png" alt="日本投資機構株式会社"/></a></h1>
+      <h1><img src="img/logo.png" alt="日本投資機構株式会社"/></a></h1>
       <p>関東財務局長（金商）第2747号</p>
       <p>キングトレード投資顧問は日本投資機構株式会社が運営するWEBサイトです</p>
     </div>
   </div><!--header-inner end-->
 </header>
+
 <div id="wrapper">
   <article>
     <section>
       <div id="top">
-        <div class="inner"><h1><img src="images/ailp_02_fv.png" alt=""></h1></div>
+        <div class="inner"><h1><img src="img/img_001_02.png" alt=""></h1></div>
+        </div>
+        <div class="cvbeforbox">
+          <div class="cvbefor_bg"></div>
+          <div class="cvbefor_inner"><img src="img/cv_befor01.png" alt=""></div>
+          <div class="cvbefor_bg"></div>
+        </div>
         <div class="video">
-        <video src="images/fvmov.mp4" autoplay loop muted playsinline></video>
+        <video src="img/fvmov.mp4" autoplay loop muted playsinline></video>
       </div>
       </div><!--top end-->
     </section>
 
     <section>
-      <div class="cvbeforbox">
-        <div class="cvbefor_inner"><img src="images/ailp_cv01.png" alt=""></div>
-        <p>※画像認証や音声認識に並ぶレベル4のAIを搭載しており、LSTMはディープラーニング手法の一つで、SVMはデータ分析を行う機械学習です。</p>
-      </div>
       <div class="cv">
 
       <form method="POST" action="https://report.calltree-system.com/jio/register.php">
@@ -80,7 +99,7 @@
       		</div>
           <div class="fcarrow"></div>
       		<div class="fr02">
-      			<input type="image" src="images/btn.png" id="btn1" name="send">
+      			<input type="image" src="img/btn.png" id="btn1" name="send">
           </div>
         <div class="pc cvtxt">
           <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
@@ -92,225 +111,63 @@
       </div>
 
       		<div class="tel sp">
-      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
+      			<a href="tel:0352121812"><img src="img/lp2203_sp_tell.png" alt=""></a>
       		</div>
     </section>
 
-    <section class="bgbk">
-      <div class="content01">
-        <img src="images/ailp_content_02.png" alt="" />
-      </div>
-      <div class="content02">
-        <img src="images/ailp_content_03.png" alt="" />
-      </div>
-      <div class="content03">
-        <img src="images/ailp_content_04.png" alt="" />
-      </div>
-      <div class="content04">
-        <img src="images/ailp_content_09.png" alt="" />
-        <div class="c04_textbox">
-        <img src="images/ailp_content_12.png" alt="" />
-        <div class="c04_text">
-        <p>ご自分の投資判断に自信を持てずに</p>
-        <p>損失を増やしてしまったことはありませんか？</p>
-        <p>初心者からベテランの方まで共通するのは</p>
-        <p>損失を出したくないという事。</p>
-        <p>&nbsp;</p>
-        <p>自分の判断に迷ってしまうことがあれば</p>
-        <p>弊社が開発したAIが選定する銘柄を<br class="br-sp">是非お買付けください！</p>
-        <p>&nbsp;</p>
-        <p>これからの時代、投資にはAIが必需品になることを<br class="br-sp">ご体感いただけるでしょう！</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-      </div>
-      </div>
-      </div>
-      <div class="content05">
-        <img src="images/ailp_content_16.jpg" alt="" />
-      </div>
-    </section>
-
-    <section>
-      <div class="cvbeforbox">
-        <div class="cvbefor_inner"><img src="images/ailp_08.png" alt=""></div>
-        <p>※画像認証や音声認識に並ぶレベル4のAIを搭載しており、LSTMはディープラーニング手法の一つで、SVMはデータ分析を行う機械学習です。</p>
-      </div>
-      <div class="cv">
-
-      <form method="POST" action="https://report.calltree-system.com/jio/register.php">
-        <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
-        <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
-        <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
-          <!-- リファラー -->
-      <input type="hidden" name="referer" value="">
-      	<div class="inner02 cf">
-      		<div class="fl02">
-      			<input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
-      			<div>
-      			<label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
-      			<label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
-            <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
-
-      <br>
-      <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
-      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
-      </div>
-      		</div>
-          <div class="fcarrow"></div>
-      		<div class="fr02">
-      			<input type="image" src="images/btn.png" id="btn1" name="send">
-          </div>
-        <div class="pc cvtxt">
-          <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
-          また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
-        </div>
-        </div>
-
-      	</form>
-      </div>
-
-      		<div class="tel sp">
-      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      		</div>
-    </section>
-
-        <section>
-          <div class="">
-            <div class="areaIn conte01">
-              <img src="images/ailp_content_20.jpg" alt="百聞は一見にしかず">
-
-              <!--<iframe src="https://trend-scouter.jp/jio/cplp02/jisseki.pdf" width="100%" height="100%"></iframe>-->
-              <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNbzFQe40YEsXzIqw4fXI1kIonlyUw9UOU4IE8VBvxpiirdHqD1t7mNX9aAgLCtxFkzzFtm7MxoBdd/pubhtml?gid=297536378&amp;widget=false&amp;chrome=false" width="100%" height="100%"></iframe>
-
-              <div class="jitsuryoku">
-                <p class="tit">これが弊社の実力です。</p>
-                <p>&nbsp;</p>
-                <p>投資の世界は味方になるアナリストを<br class="br-sp">どれだけ多く抱えるかが重要です。</p>
-                <p>&nbsp;</p>
-                <p>そして、この開発したAIは 困っている投資家様を</p>
-                <p>救済できるだけの力があり、</p>
-                <p>また、実績も十分残すことが出来ています。</p>
-                <p>&nbsp;</p>
-                <p>今までの投資人生から180度変えたい！</p>
-                <p>&nbsp;</p>
-                <p>というお気持ちがあれば、</p>
-                <p>たった一度だけ完全無料で<br class="br-sp"><span class="red txtBig">急騰期待銘柄</span>を差し上げますので</p>
-                <p>弊社の力をまずはお試しください！</p>
-                <p>&nbsp;</p>
-                <p>&nbsp;</p>
-              </div>
-            </div><!-- areaIn end -->
-
-          </div><!-- cont_black end -->
-        </section>
-        <section>
-          <div class="cont03">
-            <img src="images/content01_30.png" alt="ご案内する有料商品の内容について">
-            <p>
-              ※弊社の<a href="https://king-trade.jp/userfiles/files/teiketsu_all.pdf">「契約締結前交付書面」</a>も併せて必ずご確認ください</p>
-            <div class="product">
-              <p>
-                <span class="yellow">①単発契約(3,000円～)</span><br>
-                弊社、契約締結前交付書面に記載の「単発ドカン！スポット契約」に従い、急騰が期待できる厳選された銘柄情報を、メールやLINEなどの電子媒体を使い、速やかに提供します。<br><br>
-                <span class="yellow">②期待リターン契約(100,000円～)</span><br>弊社、契約締結前交付書面に記載の「期待リターン確保追求型」に従い、期待リターンが確保できる銘柄情報の配信をお電話、メールやLINEなどの電子媒体を使い、速やかに提供します。
-              </p>
-            </div>
-
-          </div><!-- areaIn cont02 end -->
-        </section>
-        <section>
-  <div class="cvbeforbox">
-    <div class="cvbefor_inner"><img src="images/ailp_08.png" alt=""></div>
-    <p>※画像認証や音声認識に並ぶレベル4のAIを搭載しており、LSTMはディープラーニング手法の一つで、SVMはデータ分析を行う機械学習です。</p>
-  </div>
-  <div class="cv">
-
-  <form method="POST" action="https://report.calltree-system.com/jio/register.php">
-    <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
-    <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
-    <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
-      <!-- リファラー -->
-  <input type="hidden" name="referer" value="">
-    <div class="inner02 cf">
-      <div class="fl02">
-        <input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
-        <div>
-        <label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
-        <label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
-        <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
-
-  <br>
-  <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
-  また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
-  </div>
-      </div>
-      <div class="fcarrow"></div>
-      <div class="fr02">
-        <input type="image" src="images/btn.png" id="btn1" name="send">
-      </div>
-    <div class="pc cvtxt">
-      <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
-      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
-    </div>
-    </div>
-
-    </form>
-  </div>
-
-      <div class="tel sp">
-        <a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      </div>
-</section>
     <section>
       <div id="title">
-        <img src="images/lp13_content_03.png" alt="おかげさまで創立１０周年を迎えられました。">
+        <img src="img/lp13_content_03.png" alt="おかげさまで創立１０周年を迎えられました。">
       </div><!-- title end -->
     </section>
     <section>
       <div class="conte02box">
         <div class="conte02_obi">
-          <img src="images/content01_16.png" alt="5大特典プレゼント">
+          <img src="img/content01_16.png" alt="5大特典プレゼント">
         </div>
         <div class="cont02">
-          <img src="images/content01_toku01.gif" alt="特典1">
-          <img src="images/content01_toku02.gif" alt="特典2">
-          <img src="images/content01_toku03.gif" alt="特典3">
-          <img src="images/content01_toku04.gif" alt="特典4">
-          <img src="images/content01_toku05.gif" alt="特典5">
-          <img src="images/ailp_content_23.jpg" alt="これらの特典はそれらのバイブルとなるでしょう！">
+          <img src="img/content01_toku01.gif" alt="特典1・特典2">
+          <img src="img/content01_toku02.gif" alt="特典1・特典2">
+          <img src="img/content01_toku03.gif" alt="特典1・特典2">
+          <img src="img/content01_toku04.gif" alt="特典1・特典2">
+          <img src="img/content01_toku05.gif" alt="特典1・特典2">
+          <img src="img/content01_22.png" alt="特典5・これらの特典はそれらのバイブルとなるでしょう！">
         </div><!-- cont02 end -->
+        <div class="borum">
+          <img src="img/lp13_content_08.png" alt="このボリュームはいかがでしょうか" class="borumimg">
+          <div class="cvbeforbox">
+            <div class="cvbefor_bg02"></div>
+            <div class="cvbefor_inner"><img src="img/cv_befor02.png" alt=""></div>
+            <div class="cvbefor_bg02"></div>
+          </div>
+        </div><!-- borum end -->
       </div><!-- cont_black end -->
     </section>
     <section>
-      <div class="cvbeforbox">
-        <div class="cvbefor_inner"><img src="images/ailp_08.png" alt=""></div>
-        <p>※画像認証や音声認識に並ぶレベル4のAIを搭載しており、LSTMはディープラーニング手法の一つで、SVMはデータ分析を行う機械学習です。</p>
-      </div>
       <div class="cv">
 
-      <form method="POST" action="https://report.calltree-system.com/jio/register.php">
+        <form method="POST" action="https://report.calltree-system.com/jio/register.php">
         <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
         <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
         <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
           <!-- リファラー -->
       <input type="hidden" name="referer" value="">
-      	<div class="inner02 cf">
-      		<div class="fl02">
-      			<input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
-      			<div>
-      			<label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
-      			<label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
+        <div class="inner02 cf">
+          <div class="fl02">
+            <input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
+            <div>
+            <label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
+            <label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
             <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
 
       <br>
       <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
       また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
       </div>
-      		</div>
+          </div>
           <div class="fcarrow"></div>
-      		<div class="fr02">
-      			<input type="image" src="images/btn.png" id="btn1" name="send">
+          <div class="fr02">
+            <input type="image" src="img/btn.png" id="btn1" name="send">
           </div>
         <div class="pc cvtxt">
           <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
@@ -318,15 +175,106 @@
         </div>
         </div>
 
-      	</form>
+        </form>
       </div>
 
-      		<div class="tel sp">
-      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      		</div>
+          <div class="tel sp">
+            <a href="tel:0352121812"><img src="img/lp2203_sp_tell.png" alt=""></a>
+          </div>
     </section>
+
+    <section>
+      <div class="">
+        <div class="borum02">
+          <img src="img/lp13_content_13.png" alt="お客様を心の底から勝たせたい" class="borumimg">
+        </div><!-- borum end -->
+        <div class="areaIn conte01">
+          <img src="img/content01_08.png" alt="百聞は一見にしかず">
+
+          <!--<iframe src="https://trend-scouter.jp/jio/cplp02/jisseki.pdf" width="100%" height="100%"></iframe>-->
+          <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNbzFQe40YEsXzIqw4fXI1kIonlyUw9UOU4IE8VBvxpiirdHqD1t7mNX9aAgLCtxFkzzFtm7MxoBdd/pubhtml?gid=297536378&amp;widget=false&amp;chrome=false" width="100%" height="100%"></iframe>
+
+          <div class="jitsuryoku">
+            <p class="tit">これが弊社の実力です。</p>
+            <p>&nbsp;</p>
+            <p>投資の世界は味方になるアナリストをどれだけ多く抱えるかが重要です。</p>
+            <p>&nbsp;</p>
+            <p>弊社には困っている初心者の投資家様を助けるだけの環境が整っており</p>
+            <p>また、実績も十分残すことが出来ています。</p>
+            <p>&nbsp;</p>
+            <p>急騰銘柄の掴み方が分からない、</p>
+            <p>&nbsp;</p>
+            <p>選定方法が分からないとお悩みであれば</p>
+            <p>&nbsp;</p>
+            <p>たった一度だけ完全無料で<span class="red txtBig">急騰期待銘柄</span>を差し上げますので</p>
+            <p>弊社の力をまずはお試しください！</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+          </div>
+        </div><!-- areaIn end -->
+
+      </div><!-- cont_black end -->
+    </section>
+    <section>
+      <div class="cont03">
+        <img src="img/content01_30.png" alt="ご案内する有料商品の内容について">
+        <p>
+          ※弊社の<a href="https://trend-scouter.jp/teiketsu_all.pdf">「契約締結前交付書面」</a>も併せて必ずご確認ください</p>
+        <div class="product">
+          <p>
+            <span class="yellow">①単発契約(3,000円～)</span><br>
+            弊社、契約締結前交付書面に記載の「単発ドカン！スポット契約」に従い、急騰が期待できる厳選された銘柄情報を、メールやLINEなどの電子媒体を使い、速やかに提供します。<br><br>
+            <span class="yellow">②期待リターン契約(100,000円～)</span><br>弊社、契約締結前交付書面に記載の「期待リターン確保追求型」に従い、期待リターンが確保できる銘柄情報の配信をお電話、メールやLINEなどの電子媒体を使い、速やかに提供します。
+          </p>
+        </div>
+
+      </div><!-- areaIn cont02 end -->
+    </section>
+    <section>
+      <div class="cv">
+
+        <form method="POST" action="https://report.calltree-system.com/jio/register.php">
+        <input type="hidden" name="success-page" value="https://trend-scouter.jp/jio/pages/thanks.html"> <!-- valueには 登録成功時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="error-page" value="https://trend-scouter.jp/jio/pages/error.html"> <!-- valueには 登録失敗時の遷移先を https:// からフルパスで指定する -->
+        <input type="hidden" name="check-email-duplication" value="1"><!-- 重複登録時エラー用 -->
+          <!-- リファラー -->
+      <input type="hidden" name="referer" value="">
+        <div class="inner02 cf">
+          <div class="fl02">
+            <input name="email" placeholder="ここにメールアドレスを入力" id="Usermail" value="" class="form_input_input" type="email" required/>
+            <div>
+            <label><input type="checkbox" class="checkbox1" name="privacy" value="1" checked /><a href="https://trend-scouter.jp/jio/pages/privacy.html" target="_blank">個人情報保護に関する事項</a>に同意する</label>
+            <label><input type="checkbox" class="checkbox1" name="email-check" value="1" checked />メール配信に同意し、日本投資機構株式会社からのメールを受け取る</label>
+            <label><input type="checkbox" class="checkbox1" name="hansya" value="1" checked />当サイトの<a href="https://trend-scouter.jp/反社会的勢力との関係遮断に対する基本方針.pdf" target="_blank">反社会的勢力との関係遮断に対する基本方針</a>に同意する</label>
+
+      <br>
+      <p class="sp txt02">銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+      また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+      </div>
+          </div>
+          <div class="fcarrow"></div>
+          <div class="fr02">
+            <input type="image" src="img/btn.png" id="btn1" name="send">
+          </div>
+        <div class="pc cvtxt">
+          <p>銘柄情報を含む朝刊・夕刊の市況配信の他、当社で提供している商品も別途ご案内させていただきます。<br>
+          また、最終的な投資判断はお客様ご自身で行っていただけます様お願いいたします。</p>
+        </div>
+        </div>
+
+        </form>
+      </div>
+
+          <div class="tel sp">
+            <a href="tel:0352121812"><img src="img/lp2203_sp_tell.png" alt=""></a>
+          </div>
+    </section>
+
+
+
   </article>
 </div><!--wrapper end-->
+
 
 <footer>
   <div id="disclaimer">
@@ -361,7 +309,7 @@
     </div>
   </div><!-- footlink end -->
 
-  <p class="copy">© 2018- 日本投資機構株式会社 Allright Reserved.</p>
+  <p class="copy">© 2018-2025 日本投資機構株式会社 Allright Reserved.</p>
 </footer>
 <script type="text/javascript">
 window.addEventListener('load', function() {
@@ -373,6 +321,6 @@ window.addEventListener('load', function() {
 });
 </script>
 
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"94e9e35c4dc258bf","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.6.2","token":"97b32c1294b54f998f2819ddc546b8ce"}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"94ed5fa62b72f6ea","version":"2025.6.2","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"97b32c1294b54f998f2819ddc546b8ce","b":1}' crossorigin="anonymous"></script>
 </body>
 </html>
