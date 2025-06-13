@@ -57,11 +57,6 @@
       	</form>
       </div>
 
-      		<div class="tel sp">
-      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      		</div>
-    </section>
-
     <section class="bgbk">
       <div class="content01">
         <img src="images/ailp_content_02.png" alt="" />
@@ -106,11 +101,6 @@
 
       	</form>
       </div>
-
-      		<div class="tel sp">
-      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      		</div>
-    </section>
 
         <section>
           <div class="">
@@ -166,9 +156,6 @@
     </form>
   </div>
 
-      <div class="tel sp">
-        <a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      </div>
 </section>
     <section>
       <div id="title">
@@ -199,13 +186,6 @@
 
       	</form>
       </div>
-
-      		<div class="tel sp">
-      			<a href="tel:0352121812"><img src="images/lp2203_sp_tell.png" alt=""></a>
-      		</div>
-    </section>
-  </article>
-</div><!--wrapper end-->
 
 <footer>
   <div id="disclaimer">
